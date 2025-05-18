@@ -1,8 +1,6 @@
-### How to Run:
+## Chat App
 
-- Run the server: cargo run --bin server.
-- In a new terminal, run the client: cargo run --bin client.
-- Type messages in the client terminal to send them to the server, which broadcasts to all connected clients.
+This project is documented on DeepWiki.
 
-<img src="./chat_app.png" alt="drawing" width="400"/>
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/anpa6841/rust-chat-app)
 

@@ -6,4 +6,4 @@ This project is documented on DeepWiki.
 
 > This project was casually coded.
 
-> Minor Changes: Code-level and component-level documentation has been added.
+> Minor Changes: Auto-generated code-level and component-level documentation has been added.
